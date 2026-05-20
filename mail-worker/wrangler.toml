@@ -7,12 +7,12 @@ keep_vars = true
 enabled = true
 
 [[d1_databases]]
-binding = "DB"
+binding = "db"
 database_name = "cloud-mail-db"
 database_id = "15a26090-b6b2-442a-9010-b94ec72ba01e"
 
 [[kv_namespaces]]
-binding = "KV"
+binding = "kv"
 id = "54b910e7f77047c08cd7a83424eac824"
 
 [ai]
